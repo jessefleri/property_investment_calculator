@@ -1,0 +1,12 @@
+name: property_value_calculator
+title: property_value_calculator
+username: jessefleri
+account: jessefleri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14816348
+bundleId: 10333972
+url: https://jessefleri.shinyapps.io/property_value_calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
